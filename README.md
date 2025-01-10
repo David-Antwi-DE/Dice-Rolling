@@ -1,5 +1,5 @@
-### Dice Rolling Simulator
-
+ 
+h1> Dice Rolling Simulator 1</h1>
 
 Project Brief
 The Goal of this project, like the title suggests, involves writing a program that simulates rolling a
